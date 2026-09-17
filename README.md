@@ -1,6 +1,6 @@
 # Cedar CLI
 
-Cedar CLI requires Node.js 18 or later.
+Cedar CLI requires Node.js 22 or later.
 
 ## Setup
 
